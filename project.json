@@ -1,0 +1,4 @@
+[{"Id":1,"Name":"Rose","Description":"Wedding Flower","UnitPrice":100,"Image":"/Image/rose.jpg","Quantity":10},
+{"Id":2,"Name":"Lotus","Description":"Worship Flower","UnitPrice":200,"Image":"/Image/Lotus.jpg","Quantity":20},
+{"Id":3,"Name":"gerbera","Description":"Flower","UnitPrice":150,"Image":"/Image/gerbera.jpg","Quantity":30},
+{"Id":1,"Name":"Blue Rose","Description":"Unique Flower","UnitPrice":280,"Image":"/Image/bluerose.jpg","Quantity":40}]
